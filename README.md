@@ -1,0 +1,3 @@
+# YoutubeListPlay
+ユーザーがYoutubeの再生リストを作成していおき、スクリプトが順番に再生する
+ラズパイ（Raspbian）のシェルスクリプトで動作

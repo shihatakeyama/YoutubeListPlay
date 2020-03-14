@@ -18,9 +18,11 @@ $ sudo n stable
 $ node -v
 
  youtube-dl (動画ダウンロードソフト)インストール
+ 
 $ npm install youtube-dl
 
  node-omxplayer (動画再生ソフト)のインストール
+ 
 $ npm install node-omxplayer
 
 $ vim pontube.js

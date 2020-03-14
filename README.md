@@ -22,6 +22,7 @@ $ npm install youtube-dl
 
  node-omxplayer (動画再生ソフト)のインストール
 $ npm install node-omxplayer
+
 $ vim pontube.js
 
 ラズパイのエクスプローラなどでys.sh と filelist.txt をラズパイの中にコピーして、ys.sh に実行権限を与えておく。

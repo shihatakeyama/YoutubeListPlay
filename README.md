@@ -4,6 +4,7 @@
 filelist.txt 内に1行1つのURLを記述しておき、再生される。
 
 ■インストール
+
  node (JavaScript 環境)のインストール
 $ sudo apt-get install -y nodejs npm
 $ sudo npm cache clean
@@ -23,6 +24,7 @@ $ vim pontube.js
 ラズパイのエクスプローラなどでys.sh と filelist.txt をラズパイの中にコピーして、ys.sh に実行権限を与えておく。
 
 ■実行
+
 ターミナルを起動して、カラントディレクトリをコピーした場所へ移動。
 
 実行する。

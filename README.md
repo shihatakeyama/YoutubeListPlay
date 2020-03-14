@@ -4,6 +4,7 @@
 filelist.txt 内に1行1つのURLを記述しておき、再生される。
 
 ■インストール
+
  ターミナルを起動して node (JavaScript 環境)のインストール
  
 $ sudo apt-get install -y nodejs npm

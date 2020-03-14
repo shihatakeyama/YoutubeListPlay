@@ -7,8 +7,11 @@ filelist.txt 内に1行1つのURLを記述しておき、再生される。
  node (JavaScript 環境)のインストール
  
 $ sudo apt-get install -y nodejs npm
+
 $ sudo npm cache clean
+
 $ sudo npm install n -g
+
 $ sudo n stable
 
  node インストールの確認

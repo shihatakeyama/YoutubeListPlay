@@ -16,6 +16,7 @@ $ sudo npm install n -g
 $ sudo n stable
 
  node インストールの確認
+ 
 $ node -v
 
  youtube-dl (動画ダウンロードソフト)インストール
@@ -35,5 +36,6 @@ $ vim pontube.js
  ターミナルを起動して、カラントディレクトリをコピーした場所へ移動。
 
  実行する。
+ 
 $ ./ys.sh
 
